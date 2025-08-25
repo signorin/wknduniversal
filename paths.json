@@ -11,6 +11,6 @@
     "/content/wknd20.resource/language-masters/en/query-index.json:/en/query-index.json"
   ],
   "includes": [
-    "/content/wknd-universal/"
+    "/content/wknd20/"
   ]
 }
